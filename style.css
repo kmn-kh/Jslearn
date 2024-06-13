@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10%;
+    height: 40px;
+    background-color: skyblue;
+}
+#text{
+    cursor: pointer;
+    text-align: center;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    margin: 0;
+}
